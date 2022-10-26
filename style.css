@@ -4,27 +4,27 @@ body {
   color: #333;
   font-family: Lato, sans-serif;
 }
-.description-application {
+.description-app {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
-.description-application img {
+.description-app img {
   width: 100%;
 }
-.description-application .more-inf {
+.description-app .more-inf {
   font-family: fantasy, cursive;
 }
 
 @media (max-width: 768px) {
 
-  .description-application { 
+  .description-app { 
     text-align: center;
   }
 
 }
-.application {
+.app {
   display: block;
   width: 500px;
   margin: 0 auto 0;
